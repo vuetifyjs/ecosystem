@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.vuetifyjs.com/docs/images/one/logos/vuetify-logo-dark.png">
-    <img alt="Vuetify Logo" src="https://cdn.vuetifyjs.com/docs/images/one/logos/vuetify-logo-light.png" height="150">
+    <img alt="Vuetify Logo" src="https://cdn.vuetifyjs.com/docs/images/one/logos/vuetify-logo-light.png" height="100">
   </picture>
 </div>
 
