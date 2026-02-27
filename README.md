@@ -5,6 +5,10 @@
   </picture>
 </div>
 
+<p align="center">
+  <a href="https://community.vuetifyjs.com"><img src="https://discordapp.com/api/guilds/340160225338195969/widget.png" alt="Discord"></a>
+</p>
+
 # Vuetify Ecosystem Feedback
 
 Central hub for collecting feedback on private Vuetify ecosystem projects.
