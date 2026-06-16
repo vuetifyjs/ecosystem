@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://community.vuetifyjs.com"><img src="https://discordapp.com/api/guilds/340160225338195969/widget.png" alt="Discord"></a>
+  <a href="https://discord.gg/vuetify"><img src="https://discordapp.com/api/guilds/340160225338195969/widget.png" alt="Discord"></a>
 </p>
 
 # Vuetify Ecosystem Feedback
@@ -44,4 +44,4 @@ Use the appropriate issue template:
 ## Links
 
 - [Vuetify Documentation](https://vuetifyjs.com)
-- [Discord Community](https://community.vuetifyjs.com)
+- [Discord Community](https://discord.gg/vuetify)
